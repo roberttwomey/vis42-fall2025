@@ -5,6 +5,8 @@ layout: home
 
 # Intro to Creative Code - Fall 2025
 
+| [Schedule](#schedule) | [Description](#description) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [References](#references) |
+
 ## Description
 
 This course provides students with a foundation in programming and computational thinking, and their application in creative projects. Topics covered may include generative graphics and sound, interactive media, and others. Students will gain practical skills through hands-on experience and experimentation, learning to integrate computing into artistic practices. No prior programming experience is required.
