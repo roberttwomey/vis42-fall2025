@@ -104,13 +104,13 @@ Every* week you will have the following assignments:
 *Towards the end of the semester, we’ll have one or two longer projects.
 
 ## Grading
-20% Labs (10 weekly labs, graded on completion 5/5pts)
-60% Projects (10 weekly homeworks, graded on concept, execution, experimentation 10/10pts)
-- two larger projects may take the place of homework.
-12% Reflections (10 weekly reflections, 1 per homework)
-- 2/2pts graded on completion, following SOAR format
-8% Participation (Peer Reviews, attendance)
-- graded on completion
+- 20% Labs (10 weekly labs, graded on completion 5/5pts)
+- 60% Projects (10 weekly homeworks, graded on concept, execution, experimentation 10/10pts)
+  - two larger projects may take the place of homework.
+- 12% Reflections (10 weekly reflections, 1 per homework)
+  - 2/2pts graded on completion, following SOAR format
+- 8% Participation (Peer Reviews, attendance)
+  - graded on completion
 
 # Policies
 
@@ -155,3 +155,6 @@ Students are responsible for knowing the university academic policies and resour
 
 ## Land Acknowledgment
 This public acknowledgment serves to honor and respect Indigenous peoples and their land on which our campus resides. UC San Diego was built upon the territory of the Kumeyaay Nation. From time immemorial, the Kumeyaay people have been a part of this land. Today, the Kumeyaay people continue to maintain their political sovereignty and cultural traditions as vital members of the San Diego community.
+
+# References
+- [Code as a Creative Medium](https://mitpress.mit.edu/9780262542043/code-as-creative-medium/) by Tega Brain and Golan Levin (2021)
