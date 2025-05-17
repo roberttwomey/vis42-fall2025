@@ -5,7 +5,7 @@ layout: home
 
 # Intro to Creative Code - Fall 2025
 
-| [Schedule](#schedule) | [Description](#description) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [References](#references) |
+| [Schedule](#topics-and-schedule) | [Description](#description) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [References](#references) |
 
 ## Description
 
@@ -61,7 +61,7 @@ At the end of the course, students will be able to:
   - Decomposition, pattern recognition, abstraction, algorithmic thinking, generalization, evaluation
 - Structure projects, name files, comment code, document outputs, and submit assignments according to professional and ICAM standards.
 
-## Topics and Schedules
+## Topics and Schedule
 
 | Week | Day | Topics |
 | --- | --- | --- |
