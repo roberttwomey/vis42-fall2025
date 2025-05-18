@@ -1,10 +1,10 @@
 ---
 title: Home
-layout: minimal
+layout: home
 ---
 
 # Intro to Creative Code
-[Schedule](/schedule.md) | [Description](#description) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [References](#references)
+[Schedule](/schedule) | [Description](#description) | [Resources](#resources) | [Grading](#grading) | [Policies](#policies) | [References](#references)
 
 VIS 42, Fall 2025 at UC San Diego
 
