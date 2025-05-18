@@ -4,5 +4,9 @@ theme: just-the-docs
 
 url: https://roberttwomey.github.io/vis42-fall2025/
 
+# _config.yml
+just_the_docs:
+  layout: "single"
+
 aux_links:
-  Canvas: [TK]
+  Canvas: https://canvas.ucsd.edu
