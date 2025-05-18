@@ -118,7 +118,7 @@ Every* week you will have the following assignments:
 
 Course-specific policies and rules.
 
-| [ICAM Policies](#icam-policies) | [Attendance](#attendance) | [Late Work](#late-work) | [Academic Integrity](#academic-integrity) | [Other People's Code](#other-peoples-code) | [UCSD Course Policies](#ucsd-course-policies) |
+[ICAM Policies](#icam-policies) | [Attendance](#attendance) | [Late Work](#late-work) | [Academic Integrity](#academic-integrity) | [Other People's Code](#other-peoples-code) | [UCSD Course Policies](#ucsd-course-policies)
 
 ## ICAM Policies
 File naming conventions and submissions. More [TK].
