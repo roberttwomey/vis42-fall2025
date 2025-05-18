@@ -1,7 +1,7 @@
 ---
 title: Syllabus
 layout: home
-order: 2
+nav_order: 2
 ---
 
 ## Description

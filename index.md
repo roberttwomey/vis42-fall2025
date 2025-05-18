@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
-order: 1
+nav_order: 1
 ---
 
 # Intro to Creative Code
@@ -9,15 +9,8 @@ order: 1
 
 VIS 42, Fall 2025 at UC San Diego
 
-## Description
-
-This course provides students with a foundation in programming and computational thinking, and their application in creative projects. Topics covered may include generative graphics and sound, interactive media, and others. Students will gain practical skills through hands-on experience and experimentation, learning to integrate computing into artistic practices. No prior programming experience is required.
-
-### Details
-
 - Instructor: Dr. Robert Twomey
-- Class: Tu/Th 9:30-10:50 AM
-- Location: TBD
+- Class: Tu/Th 9:30-10:50 AM - TBD
 - Office Hours:
    - in person: TBD (Envision)
    - online: TBD (zoom)
@@ -52,15 +45,3 @@ This course provides students with a foundation in programming and computational
 | Week 10 | Dec 2 | Project work time. Choose a project to post to class website vis42.org |
 | | Dec 4 | Final Showcase | 
 | Finals Week | Dec 12 | All work and documentation due |
-
-## Course Format
-- Plan to spend ~9 hours outside of class on coursework each week. (4 credit course ~ 12 hours of work time)
-   - Labs -  ~1-2 hour
-   - Projects -  ~3-5 hours
-   - Reflection, peer reviews - .5 hour
-- Each week, you will have a lab, a project, and some weeks you will have peer reviews.
-   - Labs are due before Thursday’s class.
-   - Projects are due Monday night at midnight.
-   - Peer reviews are due before Thursday’s class (you have from Tuesday morning - Thursday before class)
-- Late work will be penalized. See Late Work policy below.
-- The emphasis of this class is on regular, weekly coding practice, self-expression, reflection, and peer community/support.
