@@ -149,11 +149,6 @@ Students are responsible for knowing the university academic policies and resour
 
 ## Students with Disabilities
 Students registered with the Office for Students with Disabilities are to provide copies of their AFA letters to both the course instructor and the OSD Liaison of the Visual Arts Department . If you have any questions about utilizing your OSD accommodation, please contact Dept. OSD Liaison at vis-ug@ucsd.edu or 858-534-2860. You may also contact the Office of Students with Disabilities directly at osd@ucsd.edu or 858-534-4382. [http://disabilities.ucsd.edu/](http://disabilities.ucsd.edu/)
-UCSD Course Policies and Resources
-Students are responsible for knowing the university academic policies and resources found on [this page](https://catalog.ucsd.edu/academic-regulations.html):
-- Adding and dropping courses
-- Exams
-- Grades and grade points
 
 ## Land Acknowledgment
 This public acknowledgment serves to honor and respect Indigenous peoples and their land on which our campus resides. UC San Diego was built upon the territory of the Kumeyaay Nation. From time immemorial, the Kumeyaay people have been a part of this land. Today, the Kumeyaay people continue to maintain their political sovereignty and cultural traditions as vital members of the San Diego community.
