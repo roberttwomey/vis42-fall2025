@@ -1,6 +1,7 @@
 ---
 title: Syllabus
 layout: home
+order: 2
 ---
 
 ## Description

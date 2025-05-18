@@ -1,6 +1,7 @@
 ---
 title: Resources
 layout: home
+order: 3
 ---
 ## Resources
 - **Canvas**: used for everything. Daily announcements, links to lectures, assignments, discussions
@@ -14,5 +15,5 @@ We will use the open source creative coding language [p5.js](https://p5js.org/) 
 ## Required Materials
 You will need access to a laptop or other computer. I recommend a notebook specifically for taking notes, drawing ideas, “writing” code, etc.
 
-# References
+## References
 - [Code as a Creative Medium](https://mitpress.mit.edu/9780262542043/code-as-creative-medium/) by Tega Brain and Golan Levin (2021)
