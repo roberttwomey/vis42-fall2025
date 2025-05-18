@@ -1,6 +1,6 @@
 ---
 title: Schedule
-layout: minimal
+layout: home
 ---
 
 ## Topics and Schedule

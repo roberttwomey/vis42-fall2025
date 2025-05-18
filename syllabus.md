@@ -1,12 +1,7 @@
 ---
-title: Home
+title: Syllabus
 layout: home
 ---
-
-# Intro to Creative Code
-[Description](#description) | [Grading](#grading) | [Policies](#policies)
-
-VIS 42, Fall 2025 at UC San Diego
 
 ## Description
 
