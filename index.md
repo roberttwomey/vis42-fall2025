@@ -5,19 +5,14 @@ nav_order: 1
 ---
 
 # Intro to Creative Code
-[Description](#description) | [Grading](#grading) | [Policies](#policies)
 
 VIS 42, Fall 2025 at UC San Diego
 
-- Instructor: Dr. Robert Twomey
-- Class: Tu/Th 9:30-10:50 AM - TBD
-- Office Hours:
-   - in person: TBD (Envision)
-   - online: TBD (zoom)
+Tu/Th 9:30-10:50 AM, Center Hall 105 ([map](https://m.ucsd.edu/maps/nearby_point?id=8101341227612288&mylat=32.87749&mylng=-117.23528&no_server_init))
 
-**Prerequisites**: None
+Instructor: Dr. Robert Twomey rtwomey@ucsd.edu
 
-**Restrictions** students who have received credit for any of CSE 8A, 8B, 11, 6R, COGS 18, BILD 62, DSC20 (or equivalents) may not enroll for credit in this course.
+Office Hours: in person (TBD, Envision) and online (by appointment)
 
 ## Topics and Schedule
 
