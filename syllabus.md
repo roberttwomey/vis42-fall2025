@@ -3,19 +3,11 @@ title: Syllabus
 layout: home
 nav_order: 2
 ---
+[Description](#description) | [Grading](#grading) | [Policies](#policies)
 
 ## Description
 
 This course provides students with a foundation in programming and computational thinking, and their application in creative projects. Topics covered may include generative graphics and sound, interactive media, and others. Students will gain practical skills through hands-on experience and experimentation, learning to integrate computing into artistic practices. No prior programming experience is required.
-
-### Details
-
-- Instructor: Dr. Robert Twomey
-- Class: Tu/Th 9:30-10:50 AM
-- Location: TBD
-- Office Hours:
-   - in person: TBD (Envision)
-   - online: TBD (zoom)
 
 **Prerequisites**: None
 
@@ -32,6 +24,9 @@ This course provides students with a foundation in programming and computational
    - Peer reviews are due before Thursday’s class (you have from Tuesday morning - Thursday before class)
 - Late work will be penalized. See Late Work policy below.
 - The emphasis of this class is on regular, weekly coding practice, self-expression, reflection, and peer community/support.
+
+## Tools
+We will use the open source creative coding language [p5.js](https://p5js.org/) within a jupyterlite environment. Try it out [here](https://p5nb.vercel.app/tree/index.html)!
 
 ## Educational Objectives
 At the end of the course, students will be able to:
