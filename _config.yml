@@ -23,8 +23,8 @@ nav_external_links:
     hide_icon: true
     opens_in_new_tab: true
   - title: "Home"
-    url: "/"
+    url: ""
     hide_icon: true
   - title: "Schedule"
-    url: "/#topics-and-schedule"
+    url: "#topics-and-schedule"
     hide_icon: true
