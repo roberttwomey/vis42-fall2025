@@ -22,3 +22,9 @@ nav_external_links:
     url: "https://another-example.com"
     hide_icon: true
     opens_in_new_tab: true
+  - title: "Home"
+    url: "/"
+    hide_icon: true
+  - title: "Schedule"
+    url: "/#topics-and-schedule"
+    hide_icon: true
