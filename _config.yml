@@ -6,3 +6,19 @@ url: https://roberttwomey.github.io/vis42-fall2025/
 
 aux_links:
   Canvas: https://canvas.ucsd.edu
+
+main_nav:
+  - title: "Home"
+    url: "/"
+  - title: "Schedule"
+    url: "/#topics-and-schedule"
+
+nav_external_links:
+  - title: "My Custom Link"
+    url: "https://example.com"
+    hide_icon: false
+    opens_in_new_tab: false
+  - title: "Another Link"
+    url: "https://another-example.com"
+    hide_icon: true
+    opens_in_new_tab: true
